@@ -29,7 +29,7 @@ This version brings significant enhancements to manga/comic downloading, filteri
 
 - Specify comma-separated words or phrases (case-insensitive) that will be automatically removed from filenames.
 
-- Example: `patreon, [HD], _final` transforms `AwesomeArt_patreon,Hinataart_Hd` into `AwesomeArt.jpg`.
+- Example: `patreon, [HD], _final` transforms `AwesomeArt_patreon` `Hinataart_Hd` into `AwesomeArt.jpg` `Hinata.jpg`.
 
 ---
 
