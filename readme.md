@@ -15,8 +15,6 @@ Built with **PyQt5**, this tool is ideal for users who want deep filtering, cust
 
 This version brings significant enhancements to manga/comic downloading, filtering capabilities, and user experience:
 
----
-
 ### 📖 Enhanced Manga/Comic Mode
 
 - **New "Date Based" Filename Style:**
