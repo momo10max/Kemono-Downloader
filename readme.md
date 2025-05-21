@@ -1,7 +1,7 @@
 <h1 align="center">Kemono Downloader v3.4.0</h1>
 
 <div align="center">
-  <img src="https://github.com/Yuvi9587/Kemono-Downloader/blob/main/Read.png" alt="Kemono Downloader" width="600"/>
+  <img src="https://github.com/Yuvi9587/Kemono-Downloader/blob/main/Read.png" alt="Kemono Downloader"/>
 </div>
 
 A powerful, feature-rich GUI application for downloading content from **[Kemono.su](https://kemono.su)** and **[Coomer.party](https://coomer.party)**.  
