@@ -73,7 +73,7 @@ This field allows for dynamic filtering for the current download session and pro
 - **Direct Management:** You can add simple entries directly to `Known.txt` using the list and "Add" button in the UI's `Known.txt` management section. For creating or modifying complex grouped alias entries directly in the file, or for bulk edits, click the "Open Known.txt" button. The application reloads `Known.txt` on startup or before a download process begins.
 
 ---
-##  What's in v3.4.0? (Previous Update)
+##  What's in v3.5.0? (Previous Update)
 This version brings significant enhancements to manga/comic downloading, filtering capabilities, and user experience:
 
 ###  Enhanced Manga/Comic Mode
@@ -130,7 +130,7 @@ This version brings significant enhancements to manga/comic downloading, filteri
 
 ###  Updated Onboarding Tour
 
-- Improved guide for new users, covering v3.4.0 features and existing core functions.
+- Improved guide for new users, covering v4.0.0 features and existing core functions.
 
 ---
 
