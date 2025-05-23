@@ -53,7 +53,7 @@ This field allows for dynamic filtering for the current download session and pro
   - Input: `(Boa, Hancock)~`
   - Meaning: "Boa" and "Hancock" are different names/aliases for the *same character*. The names are listed within parentheses separated by commas (e.g., `name1, alias1, alias2`), and the entire group is followed by a `~` symbol. This is useful when a creator uses different names for the same character.
   - Session Behavior: Filters for "Boa" OR "Hancock". If "Separate Folders" is on, creates a single folder named "Boa Hancock".
-  - `Known.txt` Addition: If this group is new and selected for addition, it's added to `Known.txt` as a grouped alias entry, typically `(Boa Hancock, Boa, Hancock)`. The first name in the `Known.txt` entry (e.g., "Boa Hancock") becomes the primary folder name.
+  - `Known.txt` Addition: If this group is new and selected for addition, it's added to `Known.txt` as a grouped alias entry, typically `(Boa Hancock)`. The first name in the `Known.txt` entry (e.g., "Boa Hancock") becomes the primary folder name.
 
 - **Combined Folder for Distinct Characters (using `(...)` syntax):**
   - Input: `(Vivi, Uta)`
@@ -167,7 +167,7 @@ This version brings significant enhancements to manga/comic downloading, filteri
   - Flexible input for current session and for adding to `Known.txt`.
   - Examples:
     - `Nami` (simple character)
-    - `(Boa Hancock)~` (aliases for one character, session folder "Boa Hancock", adds `(Boa Hancock, Boa, Hancock)` to `Known.txt`)
+    - `(Boa Hancock)~` (aliases for one character, session folder "Boa Hancock", adds `(Boa Hancock)` to `Known.txt`)
     - `(Vivi, Uta)` (distinct characters, session folder "Vivi Uta", adds `Vivi` and `Uta` separately to `Known.txt`)
   - See "Advanced `Known.txt` and Character Filtering" for full details.
   - **Filter Scopes:**
