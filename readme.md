@@ -39,11 +39,6 @@ The `Known.txt` file and the "Filter by Character(s)" input field work together 
 - **Simple Entries:**
   - A line like `My Awesome Series` or `Nami`.
   - **Behavior:** Content matching this term will be saved into a folder named "My Awesome Series" or "Nami" respectively (if "Separate Folders" is enabled).
-- **Grouped Alias Entries (for a single character/entity):**
-  - Format: `(PrimaryFolderName, alias1, alias2, ...)`
-  - **Example:** `(Boa Hancock, Boa, Hancock)`
-  - **Behavior:** Content matching "Boa Hancock", "Boa", OR "Hancock" will be saved into a folder named "Boa Hancock". The first item in the parentheses is the primary folder name; all items are matching aliases.
-  - **Example:** `(Power, powwr, pwr, Blood Devil)` creates a folder "Power" for content matching any of those terms.
 
 **2. "Filter by Character(s)" UI Input Field:**
 
