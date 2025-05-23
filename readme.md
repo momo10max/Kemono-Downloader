@@ -1,4 +1,4 @@
-<h1 align="center">Kemono Downloader v3.5.0</h1>
+<h1 align="center">Kemono Downloader v4.0.0</h1>
 
 <div align="center">
   <img src="https://github.com/Yuvi9587/Kemono-Downloader/blob/main/Read.png" alt="Kemono Downloader"/>
@@ -11,7 +11,7 @@ Built with **PyQt5**, this tool is ideal for users who want deep filtering, cust
 
 ---
 
-##  What's New in v3.5.0?
+##  What's New in v4.0.0?
 
 Version 3.5.0 focuses on enhancing access to content and providing even smarter organization:
 
