@@ -167,7 +167,7 @@ This version brings significant enhancements to manga/comic downloading, filteri
   - Flexible input for current session and for adding to `Known.txt`.
   - Examples:
     - `Nami` (simple character)
-    - `(Boa ~ Hancock)` (aliases for one character, session folder "Boa Hancock", adds `(Boa Hancock, Boa, Hancock)` to `Known.txt`)
+    - `(Boa Hancock)~` (aliases for one character, session folder "Boa Hancock", adds `(Boa Hancock, Boa, Hancock)` to `Known.txt`)
     - `(Vivi, Uta)` (distinct characters, session folder "Vivi Uta", adds `Vivi` and `Uta` separately to `Known.txt`)
   - See "Advanced `Known.txt` and Character Filtering" for full details.
   - **Filter Scopes:**
